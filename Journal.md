@@ -1,89 +1,36 @@
-*Innenpolitische Probleme durch Krieg*
-- Rasputin
-- Zarin -> deutsch
-- Männer fehlten auf Feld, in Farbik
-- Versorgungslage in den Städten gefährdet
+### Start of Journal 18.6.2023
 
-*Dadurch folgeten*
-- Erste Demonstration durch Frauen in Petrograd
-- Generalstreik
-- Armee tötet ausversehen Demonstrierende
-- Duma bildet **Provisorisches Komitee** (bürgerlich liberale Opposition)
-- Zusätzlich **Petrograder Sowjet** gewählt von Soldaten und Arbeitern
-- Zar tritt zurück
-- **Provisorisches Komitee** übernimmt Gewalt -> **Provisorische Regierung**
-	- Bürgerliche Reche und Freiheiten
-	- Gleichheit (religiös, national)
-	- *zusätzlich*
-	- Verfassungsgebende Versammlung um neue Regierungsform zu bestimmen.
-	- Danach: legitimierte Wahlen
-	- *Alles nach französischem Vorbild*
-- **Petrograder Sowjet** gibt sich selbst Oberbefehl über die Armee -> Konkurrenziert mit **PK**
-	- Ab September **Bolschwiki** Mehrheit -> Kommunistisch
+|Meetings|Content|
+| --- | --- |
+| 26.5.23  | Getting things started |
+| 23.6.23 | Second meeting about finding a more concise topic, written concept was very vague and didn't have much to say, is it going to be a product? is it not going to be a product? |
+| 27.10.23    | Third meeting, getting back on track, the technical knowledge is helpful but isn't required in such depth.  |
+| 2.11.23    | Fourth meeting, discussed the revised concept, more clear now, shorten the technical theory parts , opting for an approach to create lesson materials or opting for a guide on using AI as a writing tool for papers. |
+| 29.11.23    | Short meeting, due to restrictions in the subject I have to write about the utilization of AI in the context of english classes, finalize what is needed to write the thesis: work with class materials + supporting frame  |
 
-***
+## 26.5.23
 
-## Unterschiede der Regierungen
+- conducting general research work on the web whenever the term AI appears
+- found very few research experiments conducted for existing implementation of AI
 
-**PR** <-> **PS**
-Krieg fortsetzen, Alliierten helfen <-> Ende Krieg
-Enteignung der Grundbesetzer nach Verfassung <-> Sofort
+## 23.6.23 - 27.10.23
 
-Zusätzlich aber auch Unterschiede
-**Bolschewiki** <-> **Menschewiki**
-Diktatur des Proletariats <-> …
+- trying to specify further what thesis should not just generally cover AI -> too broad
+- getting inspiration from reading books on AI "Generative Deep Learning Teaching Machines to Paint, Write, Compose, and Play" by David Foster acts as a very good foundation for understanding AI technology and some real world implementations
+- I skimmed over "Deep Learning from Scratch: Building with Python from First Principles." by Seth Weidmann and found some useful nuggets of information on deep learning specifically
+- "In Search of the Human Mind" by Robert Sternberg doesn't add all that much relevant information towards this project but covers some interesting philosophical aspects
+- Looking across several universities it was evident that they were trying to act fast, although there are no actual policies as of writing
 
-***
-## Doppelherrschaft
-- **Lenin** kehrt aus Schweiz zurück
-- **DE** hilft ihm -> Destabilisierung Russlands
-- **Lenin** wird nicht mit der **PR** kooperieren. Er hat einfache Ziele:
-	- Land
-	- Freiheit
-	- Brot 
-	- *-> kommt gut bei den Arbeitern und Bauern an*
-- **PR** noch stärker, immer unbeliebter bei Bevölkerung
-- Krisen
-	- Aufstände der Bolschewiki
-- Lenin wird wieder verfolgt, flüchtet nach Finnland
-	- Plant den Sturz der **PR**
-- Arbeiteraufstände in Fabriken etc.
-	- *Versorgung der Front immer schwieriger*
-- Bauern nehmen Gewaltsam Land und verteilen es
-	- *Soldaten desertieren*, um etwas abzubekommen
-- **Deutschen** griffen nicht einmal mehr an, um *Moral zu schwächen*
-- Nach einem letzten erfolglosen Angriff und dem folgenden Gegenangriff *wird die Armee unkontrolliert zurückgedrängt und löst sich auf*
-- *Verlust der Armee*
+## 27.10.23-29.11.23
 
-## Oktoberrevolution
-- **Bolschewiki** stellen Mehrheit in den Sowjets von **Moskau** und **Petrograd** -> *zwei wichtige Städte.*
-- **Militärrevolutionäres Komitee** übernimmt unter **Trotzki** der Soldaten und Waffen in Petrograd
-- **Bolschewiki** besetzten wichtige Strategische Orte etc.
-- Verteilung von Flugblatt, dass den Sturz der **PR** verkündete
-- **PR** ergibt sich, Minister verhaftet
-- **Zweiter Allrussischer Sowjetkongress** beschloss Übertragung der Macht auf die Räte.
-- Ähnliche Verläufe im ganzen Reich bis auf **Moskau**
-- **Lenin** beginnt zu regieren
-	- Neue **Bolschewiki** Regierung
-	- Neuer Name: **Russländische Sowjetrepublik** -> *Distanzierung vom Kaiserreich*
-	- Neuer Parteiname: **Kommunistische Partei** -> *Abtrennung von den bürgerlichen sozial-demokraten
-	- Neue Zeitrechnung
-	- Vereinfachtes Alphabet
-	- Neue Kommunistische Begriffe
-	- -> Alles durch Dekrete direkt von Lenin
+- Mainly figuring out what my paper is exactly about 
 
-## Danach
-- Bei den Novermberwahlen zur Verfassungsgebenden Versammlung wird Bolschewiki wenig gewählt
-- Lenin lässt sie auflösen
-- Ende vom Krieg mit hohen Forderungen Deutschlands
-	- Lenin wird Verrat vorgeworfen
-	- Verschiedene Parteien (Randgebiete) griffen zu Waffen -> Bürgerkrieg
+## 1.12.23-8.1.24
 
-## Bürgerkrieg
-- Roten (Bolschewiki) im Kerngebiet gegen weissen Armee==en== -> mehrere aus verschiedene Gründen von allen Seiten
-	- Die Weissen bekamen Unterstützung von den Allierten
-- Bis 1920 **Weissen** mehrheitlich besiegt. Vorteile:
-	- Kampfkraft
-	- Unterstützung von Bauern
-	- **Roter Terror** durch **Tscheka** -> Geheimpolizei
-	- 
+- Initial start of writing phase, spent a lot of time thinking about what sections to include in theory while still keeping it at an intellectually simple standpoint
+- tried contacting Sarah Aloatti for an interview
+- towards winter break is when I realized that there's still a lack of understanding what goes into effective curriculum design
+- read up on a lot oh dlh.zh.ch, provided a lot of insight in how swiss education plans on dealing with AI
+- tried contacting Sarah Aloatti again and several other faculty members at UZH
+- Writing and rewriting a lot of sections until finish
+- Handed in the physical print of the thesis on the 8.1.24
