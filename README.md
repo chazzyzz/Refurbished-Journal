@@ -1,2 +1,0 @@
-# Refurbished-Journal
-Maturajournal
